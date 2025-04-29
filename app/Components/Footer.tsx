@@ -70,7 +70,7 @@ const Footer = () => {
       </div>
       <div className='text-center p-4 mt-6 pb-0'>
         <p className='text-sm'>© 2023 Yoga Era. All rights reserved.</p>
-        <p className='text-sm'>Designed by <a href="https://abdulrahmanadigun.vercel.app/" target="_blank" className='text-[#b69572] hover:underline'>Abdulrahman Adigun</a></p>
+        <p className='text-sm'>Designed by <a href="https://abdulrahmanadigun-portfolio.vercel.app/" target="_blank" className='text-[#b69572] hover:underline'>Abdulrahman Adigun</a></p>
       </div>
     </div>
   )
